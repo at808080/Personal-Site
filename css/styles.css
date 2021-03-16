@@ -1,0 +1,39 @@
+body {
+    background-color: #f2edd7;
+}
+hr {
+    border-top: 5px dotted;
+    color: #e48257;
+    height: 0px;
+    width: 20%;
+}
+h1 {
+    color: #3a6351;
+}
+h2 {
+    color: #3a6351;
+}
+h3 {
+    color: #3a6351;
+}
+img {
+    border-radius: 100%;
+}
+
+a:hover {
+    background-color: white;
+}
+
+/*CLASSES*/
+.text {
+    background-color: aqua;
+}
+
+.emojis {
+    background-color: blueviolet;
+}
+
+/*IDs*/
+#heading {
+    color: green;
+}
